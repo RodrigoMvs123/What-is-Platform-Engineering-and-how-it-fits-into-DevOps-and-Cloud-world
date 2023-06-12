@@ -2,6 +2,7 @@
 
 https://www.youtube.com/watch?v=ghzsBm8vOms
 
+https://raw.githubusercontent.com/RodrigoMvs123/What-is-Platform-Engineering-and-how-it-fits-into-DevOps-and-Cloud-world/main/README.md
 
 Platform Engineering
 
